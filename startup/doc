@@ -1,0 +1,16 @@
+ip hacker: 10.8.117.37
+ip vis: 10.10.100.40
+
+-------------------
+    - port 21/tcp open  ftp     syn-ack vsftpd 3.0.3
+    - port 80/tcp open  http    syn-ack Apache httpd 2.4.18 ((Ubuntu))
+    - port 22/tcp open  ssh     syn-ack OpenSSH 7.2p2 Ubuntu 4ubuntu2.10 (Ubuntu Linux; protocol 2.0)
+    
+------------------------
+    - 21 ftp 
+        Maya
+        php-reverse-shell.php
+            lennie 
+            password: c4ntg3t3n0ughsp1c3
+
+
